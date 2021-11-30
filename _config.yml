@@ -19,8 +19,16 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Andverse
+    Andverse:
+      name:           "Andverse Core Devs"
+      site:           https://www.andverse.org
+      avatar:         assets/images/logo.png
+      bio:            "Andverse is a decentralized multigalactic metaverse"
+      # email:          andverse@gmail.com
+      twitter:        https://twitter.com/AndverseOffical
+
+    "Andverse Core Devs":
+      name:           "Andverse Core Devs"
       site:           https://www.andverse.org
       avatar:         assets/images/logo.png
       bio:            "Andverse is a decentralized multigalactic metaverse"
