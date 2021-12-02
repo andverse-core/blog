@@ -3,7 +3,7 @@ layout: post
 title:  "Weekly Recap(22/11 - 28/11)"
 author: "Andverse Core Devs"
 categories: [weekly-recap]
-image: 
+image: assets/images/weekly.png
 tags: []
 ---
 

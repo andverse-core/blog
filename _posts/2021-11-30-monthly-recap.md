@@ -3,7 +3,7 @@ layout: post
 title:  "Monthly Recap(01/11 - 30/11)"
 author: "Andverse Core Devs"
 categories: [monthly-recap]
-image: 
+image: assets/images/monthly.png
 tags: []
 ---
 
