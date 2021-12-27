@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Recap(13/12 - 18/12)"
+title:  "Weekly Recap(20/12 - 25/12)"
 author: "Andverse Core Devs"
 categories: [weekly-recap]
 image: assets/images/weekly.png
