@@ -4,6 +4,7 @@ title:  "Weekly Recap(06/12 - 12/12)"
 author: "Andverse Core Devs"
 categories: [weekly-recap]
 image: assets/images/weekly.png
+permalink: "/weekly-recap-20211212/"
 tags: []
 ---
 

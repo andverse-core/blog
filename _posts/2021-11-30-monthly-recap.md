@@ -4,6 +4,7 @@ title:  "Monthly Recap(01/11 - 30/11)"
 author: "Andverse Core Devs"
 categories: [monthly-recap]
 image: assets/images/monthly.png
+permalink: "/weekly-recap-202111/"
 tags: []
 ---
 
