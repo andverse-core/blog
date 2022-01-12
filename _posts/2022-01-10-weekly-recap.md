@@ -12,7 +12,7 @@ tags: []
 From January 07 to January 07 we completed the following work.
 
 - Development work.
-    - Complete Andverse Market V0.2.1 development, improvement andverse market ux.
+    - Complete Andverse Market V0.2.1 development, improvement andverse market UX.
     - Andverse Market V0.2.1 launched on testnet.
 
 
