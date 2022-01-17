@@ -5,6 +5,7 @@ author: "Andverse Core Devs"
 categories: [weekly-recap]
 image: assets/images/weekly.png
 tags: []
+permalink: "/weekly-recap-20220110/"
 ---
 
 # Weekly Recap(03/01 - 07/01)
