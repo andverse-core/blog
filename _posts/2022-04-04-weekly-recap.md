@@ -12,8 +12,6 @@ permalink: "/weekly-recap-20220404/"
 
 From January Mar 20 to April 02 we completed the following work:
 
-- 3D rendering engine technical solution evaluation;
-- Discussion of the roadmap for the next quarter;
+- 3D engine technology architecture design evaluation;
+- Conduct a new white paper Core-Devs Seminar;
 - Update Andverse's user story.
-
-
