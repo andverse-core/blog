@@ -1,12 +1,4 @@
 ---
-Author: pony@diynova.com
-Date: 2022-04-11 11:54:59
-LastEditors: pony@diynova.com
-LastEditTime: 2022-04-11 11:59:45
-FilePath: /andverse.blog/_posts/2022-04-11-weekly-recap.md
-Description: 
----
----
 layout: post
 title:  "Weekly Recap(04/04 - 08/04)"
 author: "Andverse Core Devs"
