@@ -5,7 +5,7 @@ author: "Andverse Core Devs"
 categories: [weekly-recap]
 image: assets/images/weekly.png
 tags: []
-permalink: "/weekly-recap-20220418/"
+permalink: "/weekly-recap-20220425/"
 ---
 
 # Weekly Recap(18/04 - 23/04)
