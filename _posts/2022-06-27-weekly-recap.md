@@ -12,5 +12,5 @@ permalink: "/weekly-recap-20220627/"
 
 From June 20 to June 25 we completed the following work:
 
-- Making some wearables.
+- Making wearables.
 - Development scene template.
