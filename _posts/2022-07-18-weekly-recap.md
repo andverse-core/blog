@@ -14,7 +14,7 @@ From July 11 to July 17 we completed the following work:
 
 
 - Continue to design independent avatar model.
-- Basically complete the theme design of the central square.
+- Basically complete the theme design of the central plaza.
 
-A small part of the central square:  
+A small part of the central plaza:  
 ![/assets/images/20220718001.jpg](/assets/images/20220718001.jpg)
