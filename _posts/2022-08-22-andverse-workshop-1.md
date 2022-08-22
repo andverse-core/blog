@@ -43,7 +43,7 @@ Andverse is a decentralized multigalactic world. The Andromeda metaverse, referr
 ***Registration:***  
 Free entry for everyone, whether you are the creator of the metaverse, someone interested in digital projects or someone interested in the blockchain.   
 Participants please ⬇️ comment your email here.   
-[andverse-core/workshop#1](https://github.com/andverse-core/workshop/issues/1)
+[Andverse workshop #1](https://github.com/newtonproject/workshop/issues/5)
 
 ***People who should be involved:***  
 o Enthusiasts, owners and researchers of digital products  
