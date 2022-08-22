@@ -6,7 +6,7 @@ author: "Andverse Core Devs"
 categories: [weekly-recap]
 image: assets/images/bg002.jpg
 tags: []
-permalink: "/workshop-1-notice/"
+permalink: "/workshop-1-is-coming/"
 ---
 
 # Andverse workshop#1 is coming
