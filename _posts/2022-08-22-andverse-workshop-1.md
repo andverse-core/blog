@@ -16,7 +16,9 @@ Let us take you into the world of the multiverse  and start your unprecedented
 Organizer: Andverse  
 Twitter: @AndverseOfficial  
 Website: https://www.andverse.org/  
-How to participate: Zoom: 849 4565 8287, Password: 229898  
+How to participate: Zoom: 849 4565 8287, Password: 229898   [https://us02web.zoom.us/j/84945658287?pwd=bjZVNmpaVFNocEVUUlRPZ3J2dTVQZz09
+](https://us02web.zoom.us/j/84945658287?pwd=bjZVNmpaVFNocEVUUlRPZ3J2dTVQZz09
+)
 Free 🆓
 
 ***Rules:***  
