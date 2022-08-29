@@ -1,24 +1,22 @@
 ---
 layout: post
-title:  "Weekly Recap(15/08 - 20/08)"
+title:  "Weekly Recap(22/08 - 27/08)"
 author: "Andverse Core Devs"
 categories: [weekly-recap]
 image: assets/images/bg002.jpg
 tags: []
-permalink: "/weekly-recap-20220822/"
+permalink: "/weekly-recap-20220829/"
 ---
 
 # Weekly Recap
 
-From August 15 to August 20 we completed the following work:
+From August 22 to August 27 we completed the following work:
 
 
-- A parkour-like game is being designed. 
-- Newmask logs into andverse to complete development. 
+- Add Support for WalletConnect. 
+- The parkour-like game is named Crystal-Run, most of the models have been completed. 
 
-### Advance notice
 
-- Andverse Workshop #1 in preparation, tentatively scheduled to open on 28 August 2022.
 
 
 <br/>
