@@ -12,7 +12,7 @@ permalink: "/weekly-recap-20220926/"
 
 From September 19 to September 24 we completed the following work:
 
-- Write scene usage document.
+- Write scene usage document. [links](https://docs.andverse.org/developers/SDk/installation-guide)
 - Optimize the central plaza.
 
 
